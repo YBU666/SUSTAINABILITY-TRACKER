@@ -1,0 +1,132 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+/* General Page Styling */
+body {
+  font-family: 'Poppins', sans-serif;
+  background: url('https://img.freepik.com/free-photo/abstract-digital-grid-black-background_53876-97647.jpg?semt=ais_hybrid') no-repeat center center/cover;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #fff;
+}
+
+/* Container with Glassmorphic Effect */
+.container {
+  width: 420px;
+  background: rgba(255, 255, 255, 0.15);
+  padding: 25px;
+  border-radius: 15px;
+  backdrop-filter: blur(15px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25);
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+
+.container:hover {
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+}
+
+/* Title */
+h1 {
+  font-size: 26px;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 15px;
+}
+
+/* Form Styling */
+.input-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+input {
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  outline: none;
+  background: rgba(255, 255, 255, 0.4);
+  color: #000;
+  font-weight: 500;
+  text-align: center;
+}
+
+input::placeholder {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+button {
+  padding: 12px;
+  background: linear-gradient(135deg, #1b5e20, #66bb6a);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+button:hover {
+  background: linear-gradient(135deg, #0d4715, #43a047);
+  transform: scale(1.05);
+}
+
+/* Actions List */
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+li {
+  background: rgba(255, 255, 255, 0.3);
+  padding: 12px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+}
+
+/* Delete Button */
+.delete-btn {
+  background: linear-gradient(135deg, #c62828, #ff5252);
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  transition: 0.3s ease-in-out;
+}
+
+.delete-btn:hover {
+  background: linear-gradient(135deg, #b71c1c, #e53935);
+  transform: scale(1.1);
+}
+
+/* Responsive Design */
+@media (max-width: 480px) {
+  .container {
+    width: 90%;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 22px;
+  }
+  
+  button {
+    font-size: 16px;
+  }
+}

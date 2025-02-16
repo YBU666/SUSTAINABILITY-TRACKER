@@ -1,5 +1,5 @@
 
-![Sustainability Tracker](images/banner.png)
+![Sustainability Tracker]
 
 ---
 

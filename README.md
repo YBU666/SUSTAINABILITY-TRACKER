@@ -19,3 +19,7 @@
 **Database:** PostgreSQL  
 
 ---
+
+## Screenshots
+
+![Page1](https://github.com/YBU666/SUSTAINABILITY-TRACKER/blob/main/public/Page2.png)

@@ -27,17 +27,21 @@
 ![Page3](https://github.com/YBU666/SUSTAINABILITY-TRACKER/blob/main/public/page4.png)
 ![Page4](https://github.com/YBU666/SUSTAINABILITY-TRACKER/blob/main/public/page5.png)
 
-## 📜 License
-This project is open-source under the MIT License.
-
-## 💡 Contributing
-🔹 Fork the repo
-🔹 Create a feature branch
-🔹 Submit a pull request 🚀
-
-## 👨‍💻 Author
-Yashwanth 🚀
-🔗 LinkedIn | 🌎 Bangalore, India
 
 
-## Thank you 😊.
+## ** API Endpoints**
+| Method | Endpoint | Description |
+|--------|---------|-------------|
+| GET    | `/api/actions/` | Retrieve all sustainability actions |
+| POST   | `/api/actions/` | Add a new sustainability action |
+| PUT    | `/api/actions/<id>/` | Update an existing action |
+| DELETE | `/api/actions/<id>/` | Delete an action |
+
+### **Payload Format (POST/PUT)**
+```json
+{
+  "action": "Recycling",
+  "date": "2025-01-08",
+  "points": 25
+}
+

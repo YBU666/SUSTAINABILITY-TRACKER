@@ -26,3 +26,18 @@
 ![Page2](https://github.com/YBU666/SUSTAINABILITY-TRACKER/blob/main/public/Page3.png)
 ![Page3](https://github.com/YBU666/SUSTAINABILITY-TRACKER/blob/main/public/page4.png)
 ![Page4](https://github.com/YBU666/SUSTAINABILITY-TRACKER/blob/main/public/page5.png)
+
+## 📜 License
+This project is open-source under the MIT License.
+
+## 💡 Contributing
+🔹 Fork the repo
+🔹 Create a feature branch
+🔹 Submit a pull request 🚀
+
+## 👨‍💻 Author
+Yashwanth 🚀
+🔗 LinkedIn | 🌎 Bangalore, India
+
+
+## Thank you 😊.

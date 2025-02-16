@@ -23,3 +23,6 @@
 ## Screenshots
 
 ![Page1](https://github.com/YBU666/SUSTAINABILITY-TRACKER/blob/main/public/Page2.png)
+![Page2](https://github.com/YBU666/SUSTAINABILITY-TRACKER/blob/main/public/Page3.png)
+![Page3](https://github.com/YBU666/SUSTAINABILITY-TRACKER/blob/main/public/page4.png)
+![Page4](https://github.com/YBU666/SUSTAINABILITY-TRACKER/blob/main/public/page5.png)

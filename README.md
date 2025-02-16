@@ -19,10 +19,3 @@
 **Database:** PostgreSQL  
 
 ---
-## Screenshots
-
-![Page1]([https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/public/login%20ss.png](https://github.com/YBU666/SUSTAINABILITY-TRACKER/blob/main/Sustainability-tracker-images/Page2.png))
-
-![Page2](https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/public/admin%20ss.png)
-
-![Page3](https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/public/index%20ss.png)
